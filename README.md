@@ -1,5 +1,3 @@
-# Pandas-challange
-
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
