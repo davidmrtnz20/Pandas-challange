@@ -1,6 +1,6 @@
-# David A Martinez
+## David A Martinez
 
-# Rice Data Analyitics Bootcamp
+## Rice Data Analyitics Bootcamp
 
 # Observations
 
