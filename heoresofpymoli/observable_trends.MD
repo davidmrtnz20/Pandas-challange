@@ -2,7 +2,7 @@
 
 ## Rice University Data Analytics & Visualization Boot Camp
 
-# Heroes of PyMoli Observations
+# Heroes of PyMoli - Observations
 
 Based on the purchasing data, it can be deduced that the majority of players are males. 
 Of the total amount of players, over 484 are males which takes up 84% of the player base.
