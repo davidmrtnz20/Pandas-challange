@@ -1,6 +1,6 @@
 ## David A Martinez
 
-## Rice Data Analyitics Bootcamp
+## Rice University Data Analytics & Visualization Boot Camp
 
 # Observations
 
